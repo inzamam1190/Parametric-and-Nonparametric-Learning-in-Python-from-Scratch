@@ -5,9 +5,9 @@ The objective of this project is, first of all, to learn how to implement the tw
 - The different ways to evaluate the performance of the learning algorithm, and
 - How differently the same ML algorithm performs when applied to different datasets.
 
-# Datasets
+## Datasets
 Two datasets will be used from Ripley's Pattern Recognition and Neural Networks, both are 2-category classification problems. The first is a synthetic dataset with 2 features where there are about equal number of samples in each category. The second is a dataset for diabetes in Pima Indians with 7 features where the number of diabetic patients is much less than that of the normal patients.
 
-# Performance Metrics
+## Performance Metrics
 Three metrics are used to evaluate the performance of the ML algorithms, including 1) overall classification accuracy, 2) classwise classification accuracy, and 3) run time.
 
