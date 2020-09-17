@@ -1,0 +1,2 @@
+# Parametric-and-Nonparametric-Learning-in-Python-from-Scratch
+The objective of this project is, first of all, to learn how to implement the two types of learning algorithms based on Baysian decision theory, namely, parametric learning and non-parametric learning. In parametric learning, I will implement the three cases of discriminant functions assuming Gaussian pdf. In non-parametric learning, I will implement kNN. Equally important, the second objective is to get familiar with the design flow when applying machine learning algorithms to solve real-world problems.
